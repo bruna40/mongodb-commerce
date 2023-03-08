@@ -1,13 +1,8 @@
 # Commerce
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Este projeto foi desenvolvido durante o curso da Trybe e consistiu na utilização de vários métodos e operadores para alterar dados no MongoDB, bem como para filtrar dados de acordo com critérios específicos. Através de exercícios práticos, foram exploradas diversas técnicas para manipulação de dados no MongoDB
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Para esse projeto, foi escolhido um dataset pequeno, mas isso não vai te impedir de aplicar tudo o que viu até este módulo, em combinação com os conhecimentos do módulo anterior.
+
+A ideia é trabalhar com alguns dados do cardápio da Hamburgueria: ingredientes, valores nutricionais e dados fictícios de vendas.
+  
